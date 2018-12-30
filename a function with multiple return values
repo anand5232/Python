@@ -1,0 +1,13 @@
+def sumand(a,b):
+    a1=a+b
+    a2=a-b
+    return a1,a2
+
+print(" enter two number to find thier sum and product ")
+a=int(input())
+b=int(input())
+x,y=sumand(a,b)
+print(" sum is  = ")
+print(x)
+print(" minus is = ")
+print(y)
