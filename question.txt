@@ -1,0 +1,27 @@
+1. creation of list and changing value of any one element also display the length of list
+2. create a list and append two elements in it.
+3. create a list of number and print sum of all the element using function
+4. program to find the maximum and minimum of list.
+5. count the occurrence of element in list.
+6. reverse a list
+7. write a loop that traverse the previous list and print the length of each element.
+8. write a progeam that take a list of number (for example a=[5,10,15,20,25] and make a new list
+ of only the first and last elements of the given list. for pratice write this code inside 
+a function . 
+
+9.take two list say for example these two 
+    a=[1,1,2,3,5,8,13,21,34,55,89]
+    b=[1,2,3,4,5,6,7,8,9,10,11,12,13]
+and write a program that list that only contain elements.
+    
+10. write a user defined function that reads a some integers between 1 to 20 and count the
+   occurrences of each . Here is a sample run
+
+   
+11. compute the standard deviation and mean of number in a list
+mean = _
+       x = summation x1/n1
+
+standarddeviation           _
+  s= underroot summation (x-x)/(n-1)
+

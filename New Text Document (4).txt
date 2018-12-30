@@ -1,0 +1,10 @@
+1. write a class name point for creating 2D points through constructor.
+
+2. read and print detail of a student using class programing having 
+   attributes having attributes name rollno, reg no. percentage.
+
+3. write a class name time having attribute hours , minutes, seconds,
+   Define member function to add two times.
+
+4. write a class name three D , having attributes hours, minutes,second
+define a members

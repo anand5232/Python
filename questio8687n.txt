@@ -1,0 +1,23 @@
+1. Write a program that removes all the occurences of a specified string from a file
+   your program should prompt the user to enter a filename and a string to be removed.
+
+2. write a program that will count number of character words and line in a file.
+
+3. suppose that a text file contain on unspecified number of scores. Write a 
+   program that reads that score from the file and display thier total and average .
+   score are separated by blanks. your program should prompt file user to enter a filename.
+
+4. write a program that write 100 random integer . Integer are separeted by space in file.
+   read the data back from the file and display the sorted data.
+g
+5. write a program to replace the text in a file. your program should prompt the 
+   user to enter filename old string , new string.
+
+6. write a program that count the number of character in a given line 
+         http://cs.Armstrong.edu/liang/Data/lincoln.text
+
+
+
+
+
+file handling and exception handling . done in class
