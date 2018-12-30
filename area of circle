@@ -1,0 +1,7 @@
+# to find the area of the circle pi r square
+import math
+r = float(input("enter the radius of the circle"))
+area=math.pi*r**2  # here pi is constant in math module
+print("area of circle = ",area)
+print("area of circle= {:0.2f}".format(area))
+    

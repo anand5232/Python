@@ -1,0 +1,6 @@
+# a python program to create character type array
+
+from array import *
+a=array('u', ['a','b','c','d','e','f','g','h'])
+for i in a:
+    print(i)

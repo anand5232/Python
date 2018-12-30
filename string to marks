@@ -1,0 +1,9 @@
+from array import *
+
+str = input('enter the marks :',).split(' ')
+marks = [int(num) for num in str]
+total=0
+for i in marks:
+    total=total+i
+
+print(' total of all marks enter by the user is ',total)

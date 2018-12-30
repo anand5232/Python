@@ -1,0 +1,6 @@
+# check a number is between 1 and 10
+x=int(input("enter the number"))
+if x>=1 and x<=10:
+    print(" you typed ",x,"which is between 1 to 10")
+else:
+    print(" you typed the",x," which is not between 1 to 10")

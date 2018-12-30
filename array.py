@@ -1,0 +1,35 @@
+# python program to use various method of the array and use it in the array
+from array import*
+
+arr=array('i',[1,2,3,4,5,6,7,8,9])
+print(" original array ",arr)
+
+# append 30 into array arr
+arr.append(30)
+arr.append(60)
+print(" after array is append with the element 30 and 60 ",arr)
+
+# insert 99 at position no. 1
+arr.insert(1,99)
+print(" after inserting the element at position 1 element is 99 ",arr)
+
+# remove an element from the array using remove
+
+arr.remove(5)
+print(" after removing the element 5 from the array now the array is = ",arr)
+
+# using pop in array
+n=arr.pop()
+print(' after using pop method the array is ',arr)
+print(' the element that is removed = ',n)
+
+# finding the position of the element using index() method
+
+n=arr.index(3)
+print(" index or position of the element 3 in the array = ",n)
+
+# converting a array into the list
+lst=arr.tolist()
+print('list :',lst)
+print('array ',arr)
+

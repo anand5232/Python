@@ -1,0 +1,19 @@
+# python program to retrieve the element using slicing
+
+from array import *
+arr="anand"
+y=arr[1:4]
+print(y)
+
+print()
+
+y=arr[::]
+print(y)
+
+print()
+
+y=arr[-4:-1]
+print(y)
+
+y=arr[-4:]
+print(y)

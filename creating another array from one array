@@ -1,0 +1,19 @@
+# creating one array from another array
+
+from array import *
+arr1=array('d',[1.5,1.6,1.7,1.8])
+arr2=array(arr1.typecode,( i*3 for i in arr1)) # first i represeant that i will contain the values of the first array and it will the element of the second array
+print(" elements of the second array ")
+for i in arr2:
+    print(i)
+print()
+print()
+print()
+# here is the another example for the copying or creating one array from another array
+# we already import the array module in above section so we should not use it again
+
+array1=array('u',['a','b','c','d','e','f'])
+array2=array(array1.typecode,( a for a in array1))
+print(" element of the second array are ...")
+for i in array2:
+    print(i)
